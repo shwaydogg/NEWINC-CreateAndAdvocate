@@ -7,7 +7,7 @@ A web app for The Climate Mobilization bus ride
 reference [here](https://peoplesclimate.org/posters-and-flyers/#posters)
 John's Style guide in "style-guide" folder can be seen visually in [this codepen](https://codepen.io/shwaydogg/pen/XRbgPy)
 
-###Colors
+### Colors:
 ```
 #FFA902   // yellow
 #FBA819   // yellow alt
