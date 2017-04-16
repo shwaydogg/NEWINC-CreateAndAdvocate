@@ -1,11 +1,11 @@
 # NEWINC-CreateAndAdvocate
 A web app for The Climate Mobilization bus ride
 
-##Francis' Sorting Algorithm is in "group_assigner" folder
+## Francis' Sorting Algorithm is in "group_assigner" folder
 
 ## Style
 reference [here](https://peoplesclimate.org/posters-and-flyers/#posters)
-John's Style guide in "style-guide" folder can be seen visually in this codepen: https://codepen.io/shwaydogg/pen/XRbgPy
+John's Style guide in "style-guide" folder can be seen visually in [this codepen](https://codepen.io/shwaydogg/pen/XRbgPy)
 
 ###Colors
 ```
